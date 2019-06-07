@@ -3,3 +3,5 @@ Endüstrinin gelişmesiyle günümüzde robotların aktif rol almaya başlaması
 Projemde kullanmayı planladığım malzemeler; ultrasonik mesafe sensörü, vakum motoru, arduino uno, dc motor, akü kullanmayı planlıyorum.
 Ultrasonik mesafe sensörüyle otonom süpürgenin bulunduğu konumun çevresinde ki eşya yükseklik ve benzeri nesne ve unsurların algılanmasını ve buna göre otonom süpürgenin daha sağlıklı bir şekilde çalıştırarak arduino ile gerekli yazılımları yazılarak bulunduğu ortamdaki toz, tüy, kırıntı gibi pislikleri insan gücü kullanılmadan otomatik bir şekilde gerçekleştirmesini düşünüyorum.
 Otonom süpürge bu işlemleri hallederken insanların kendine daha fazla vakit kalmış olacak ve burada kalan vaktinde yapması gereken daha önemli işlerine vakit ayırıp halledebilir duruma gelmiş olacağız. Projedeki kullanacağımız prototip için malzemeleri daha güçlü ve günümüzdeki çekim gücü yüksek olan süpürgeler haline getirip yaygınlaştırmayı planlıyorum... 
+
+Youtube videosu; https://youtu.be/I3vkUJIXfoE
